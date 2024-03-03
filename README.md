@@ -7,5 +7,6 @@ pip install numpy pandas matplotlib seaborn streamlit babel
 
 ## Run
 ```
+cd dashboard
 streamlit run dashboard.py
 ```
